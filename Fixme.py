@@ -83,7 +83,7 @@ def lengths(strings):
     return list(map(lambda x: len(x), strings))
     '''
     Given a list of strings, returns a list of the
-    lengths of the corresponding strings.
+    lengths of the corresponding string.
 
     >>> lengths([])
     []
